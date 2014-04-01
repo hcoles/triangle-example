@@ -62,7 +62,7 @@
 			<plugin>
 				<groupId>org.pitest</groupId>
 				<artifactId>pitest-maven</artifactId>
-				<version>0.33-SNAPSHOT</version>
+				<version>0.34-SNAPSHOT</version>
 				<executions>
 					<execution>
 						<id>verify</id>
